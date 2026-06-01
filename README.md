@@ -22,18 +22,19 @@ Compare the calculated values and measured values of voltage in both the cases.
 
 **CIRCUIT DIAGRAM:**
 
-<img width="764" height="254" alt="image" src="https://github.com/user-attachments/assets/e846d89e-d51e-48c0-b4d9-15e87c956af3" />
+<img width="1520" height="722" alt="image" src="https://github.com/user-attachments/assets/80cba8cc-eb2b-4066-8e1b-f1b55672ab85" />
+
 
 
 
 **TABULATION:**
-<img width="950" height="728" alt="image" src="https://github.com/user-attachments/assets/65c26039-e1d1-42ed-a421-54c7fa90a98a" />
+<img width="975" height="732" alt="image" src="https://github.com/user-attachments/assets/a86d9976-76e5-490b-9571-ed94a2eebec6" />
+<img width="1331" height="632" alt="image" src="https://github.com/user-attachments/assets/aeac94b1-aba6-41fa-ac17-84d743023e2e" />
 
 
-**Calculation:**
-<img width="885" height="527" alt="image" src="https://github.com/user-attachments/assets/c1dcd304-dfb7-4fa5-98d2-788ecae9813e" />
+**OUTPUT:**
+<img width="1401" height="700" alt="image" src="https://github.com/user-attachments/assets/32c1d9d5-3309-4a90-b0a7-27fd40c06e29" />
 
-<img width="490" height="574" alt="image" src="https://github.com/user-attachments/assets/4d0bdcd6-c80d-4420-b2c1-f714a1a11d06" />
 
 **RESULT:**
 
